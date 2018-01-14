@@ -26,6 +26,6 @@ public class Main {
         System.out.println("书名：" + bookNmae + "   类型：" + bookType + "  价格：" + bookPrice);
     }
 
-    
+
 
 }
